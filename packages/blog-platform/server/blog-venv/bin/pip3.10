@@ -1,4 +1,4 @@
-#!/home/sean/_Development/portfolio-monorepo/packages/blog-platform/server/my_env/bin/python
+#!/home/sean/_Development/portfolio-monorepo/packages/blog-platform/server/blog-venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
